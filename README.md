@@ -32,7 +32,7 @@ Deine JavaScript soll die Funktion `run()` verfügen.
 
 Verknüpfe sie im Formular unter `action` mit dem Wert `javascript:run()`.
 
-Speichere in der Funktion nun die Eingaben in den Formularfeldern in einzelnen Konstanten ab.
+Speichere in der Funktion nun die Eingaben aus den Formularfeldern in einzelnen Konstanten ab.
 
 ## Test
 Schreibe in JavaScript alle Konstanten in der Konsole aus.
