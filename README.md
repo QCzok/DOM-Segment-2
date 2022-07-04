@@ -7,7 +7,7 @@ Wir benötigen eine `index.html`, eine `style.css` und eine `index.js`.
 
 Verbinde die Dateien miteinander wie in der letzten Übung.
 
-Diesmal wirst du auch das CSS Stylsheet brauchen (oder SASS wem das lieb ist).
+Diesmal wirst du auch das CSS Stylesheet brauchen (oder SASS wem das lieb ist).
 
 ## Formular
 Arbeite nun an deinem Formular.
@@ -21,6 +21,11 @@ Es gibt folgende Eingabefelder:
 * Abreisetag (Datum, Eingabepflichtig)
 
 Dein Formular braucht noch einen Submit Button
+
+## Style
+Zentriere dein Formular in der Mitte des Bildschirmes
+
+Benutze dazu die Flexbox.
 
 ## JavaScript
 Deine JavaScript soll die Funktion `run()` verfügen.
